@@ -1,0 +1,21 @@
+div {
+    border: 1px solid gray;
+}
+
+.relativ {
+    position: relative;
+    left: 80px;
+    margin-left: 10px;
+}
+
+.fixed {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    background-color: greenyellow;
+}
+
+.absolute {
+    position: absolute;
+    top: 0px;
+}

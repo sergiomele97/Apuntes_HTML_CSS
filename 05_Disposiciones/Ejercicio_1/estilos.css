@@ -1,0 +1,5 @@
+.boton:hover {
+    color: white;
+    background-color: green;
+    content: 'Hecho!';
+}

@@ -1,0 +1,13 @@
+.flex {
+    display: flex;
+    background-color: yellow;
+    height: 300px;
+    justify-content: space-around;
+}
+
+/* flexbox playground */
+
+.conntenido-1 {
+    background-color: white;
+    border: 1px solid blue;
+}

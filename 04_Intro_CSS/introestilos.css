@@ -1,0 +1,40 @@
+/* Estilos para colores */
+.colores {
+    color: orangered;
+}
+
+.color-hexadecimal {
+    color: #BCE784
+}
+
+.color-rgb {
+    color: rgb(53, 71, 226)
+}
+
+.color-rgba {
+    color: rgba(10, 10, 10, 0.4)
+}
+
+/* Fondos */
+.fondo {
+    background-color: burlywood ;
+    background-image: url("https://img.freepik.com/free-photo/grunge-paint-background_1409-1337.jpg?w=2000");
+    background-position: left center;
+}   
+
+.ancho {
+    width: 100px;
+}
+
+.alto {
+    height: 200px;
+    background-color: rgb(179, 168, 156) ;
+}
+
+.tarjeta {
+    border-style: solid;
+    border-color:rgb(53, 71, 226);
+    border-width: 1px;
+    padding: 10px 20px;
+    margin: 10px 20px;
+}
